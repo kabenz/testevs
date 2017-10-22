@@ -15,6 +15,7 @@ namespace testevs
         public static void Main(string[] args)
         {
             //Comentário de Teste
+            //Novo Comentário
             BuildWebHost(args).Run();
         }
 
